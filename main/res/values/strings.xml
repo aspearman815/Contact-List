@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="send_button">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="Text_Two">This is Passage Two</string>
+    <string name="text_three">Text Three Passage</string>
+    <string name="text_one">Text One Passage</string>
+    <string name="ButtonThreeText">three</string>
+    <string name="buttonTwoText">two</string>
+    <string name="buttonOneText">one</string>
+</resources>
